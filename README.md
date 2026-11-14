@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Lili!
 
-<!--
-**liliszeibert-qa/liliszeibert-qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm transitioning from QC & Data Quality into QA Automation.
 
-Here are some ideas to get you started:
+I enjoy exploring how things work, finding edge cases and learning how to build reliable software through testing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👾 Currently learning
+
+- UI Test Automation
+- JavaScript & TypeScript
+- Python
+- Test design and software quality
+
+### 🛠️ Tech Stack
+
+JavaScript · TypeScript · Python · Playwright · Git · GitHub
+
+---
+
+*Learning step by step, testing with curiosity.* 💜
