@@ -1,15 +1,18 @@
 # Hi, I'm Lili!
 
-I'm transitioning from QC & Data Quality into QA Automation.
+Currently moving from QC & Data Quality towards QA Automation.
 
 I enjoy exploring how things work, finding edge cases and learning how to build reliable software through testing.
 
-### 👾 Currently learning
+### 👾 What I'm into
 
-- UI Test Automation
-- JavaScript & TypeScript
-- Python
+- QA & test automation
+- JavaScript, TypeScript & Python
+- Playwright
 - Test design and software quality
+- Processing & py5
+- Visual experiments with Hydra
+- Building projects and having fun with code
 
 ### 🛠️ Tech Stack
 
